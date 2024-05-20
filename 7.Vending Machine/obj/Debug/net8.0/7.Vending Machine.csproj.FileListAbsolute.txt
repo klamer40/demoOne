@@ -1,0 +1,14 @@
+E:\C#\6.Exercise Basic Syntax\7.Vending Machine\bin\Debug\net8.0\7.Vending Machine.exe
+E:\C#\6.Exercise Basic Syntax\7.Vending Machine\bin\Debug\net8.0\7.Vending Machine.deps.json
+E:\C#\6.Exercise Basic Syntax\7.Vending Machine\bin\Debug\net8.0\7.Vending Machine.runtimeconfig.json
+E:\C#\6.Exercise Basic Syntax\7.Vending Machine\bin\Debug\net8.0\7.Vending Machine.dll
+E:\C#\6.Exercise Basic Syntax\7.Vending Machine\bin\Debug\net8.0\7.Vending Machine.pdb
+E:\C#\6.Exercise Basic Syntax\7.Vending Machine\obj\Debug\net8.0\7.Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\6.Exercise Basic Syntax\7.Vending Machine\obj\Debug\net8.0\7.Vending Machine.AssemblyInfoInputs.cache
+E:\C#\6.Exercise Basic Syntax\7.Vending Machine\obj\Debug\net8.0\7.Vending Machine.AssemblyInfo.cs
+E:\C#\6.Exercise Basic Syntax\7.Vending Machine\obj\Debug\net8.0\7.Vending Machine.csproj.CoreCompileInputs.cache
+E:\C#\6.Exercise Basic Syntax\7.Vending Machine\obj\Debug\net8.0\7.Vending Machine.dll
+E:\C#\6.Exercise Basic Syntax\7.Vending Machine\obj\Debug\net8.0\refint\7.Vending Machine.dll
+E:\C#\6.Exercise Basic Syntax\7.Vending Machine\obj\Debug\net8.0\7.Vending Machine.pdb
+E:\C#\6.Exercise Basic Syntax\7.Vending Machine\obj\Debug\net8.0\7.Vending Machine.genruntimeconfig.cache
+E:\C#\6.Exercise Basic Syntax\7.Vending Machine\obj\Debug\net8.0\ref\7.Vending Machine.dll
